@@ -1,0 +1,174 @@
+[[ONNX_static]]
+arch = "aarch64"
+git-tree-sha1 = "177cf5b796c017549759f9954e74d19a43b47c21"
+os = "macos"
+
+    [[ONNX_static.download]]
+    sha256 = "0cfa3a6ba2ff7c8a5502f730c9a2bba2bad7b45cdb89ed98fd423b3606408a6b"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.aarch64-apple-darwin.tar.gz"
+[[ONNX_static]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "526069953d35105ac5f702f5bc67e90acff8b9d7"
+libc = "glibc"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "7dadf4e80d5a4137729eb34a5e197764880072ac4580c1411f401b9801257769"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b1e34e2888abcb1bda9c4edf85e096e5b52ab080"
+libc = "musl"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "516889d69a011ec668e8748d0700b11dba53a0031904dd05d7393faf40c845d9"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.aarch64-linux-musl-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "aarch64"
+git-tree-sha1 = "33366b5ca201b611e288081f9f82445570cac74a"
+os = "freebsd"
+
+    [[ONNX_static.download]]
+    sha256 = "4602a37e0f3f7070da3878247254668d5e2ae896cbc7cde5e32dea2c3df8cac1"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.aarch64-unknown-freebsd.tar.gz"
+[[ONNX_static]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "64444a10ba1c5056a482f470e9ed91ad6f454bf0"
+libc = "glibc"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "5008ebcd2db7be6b345e216416a6d5d99fe433cb1ffca187dd17430f30146db0"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "14baf6d5b154c76e3ad410fc4e5d96124052dc34"
+libc = "musl"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "795bc2ee79a8c75eb20980a13898c7bc0ee4d0ff93dd75c430705d3ae77cf108"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d61da44d8f37bce5d0460a9cbab5e7f9f19c4210"
+libc = "glibc"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "75fbd796f010dcb583dddd964ed497c86abc55a6e7269c5462a8e919ced09e89"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "260d5a87c7b019baf60b8ae53ac9b2c7834ae9d0"
+libc = "musl"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "61f001001517e404f8a1fca8a8161a92dcecd2ef76ab46ecb49926b8549a10f0"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aeeb5d47f407c26dbebc044b4fa86eddffeac648"
+libc = "glibc"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "30d864f1668ed9d9a3890b4fd208221363df53af5e65e1fb7db8d5b590d6e861"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.i686-linux-gnu-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "14694c3513aeaf79723018b3f3cca8466010fbd7"
+libc = "musl"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "cfa08b092da0bf87ea047b861efef319c28839b9a6a1cfcad4bf46857000bc60"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.i686-linux-musl-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "23aa7d66642a47227dbe096dc378b295b6b1c123"
+os = "windows"
+
+    [[ONNX_static.download]]
+    sha256 = "0da201a6fd7929c9f733e91c092e6f781496821066393ef32c67bc88d322c2e3"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.i686-w64-mingw32-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8729fbb55ab267ce98ea24126d3d60b9fa782ace"
+libc = "glibc"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "9b4de6f07c898048163f194fbe91522e8730241deecf3bd82ba3fcbe73eb71aa"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "354de102450c725af7573f5fc006b2f0d2f4f40e"
+libc = "glibc"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "5c6f30c84d2017846dce23fcf1bf2b0a8e184a487bce994b2707cabcb735be06"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.riscv64-linux-gnu-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "x86_64"
+git-tree-sha1 = "2895b617020a4b837e963a54d58b7b7a260a6db6"
+os = "macos"
+
+    [[ONNX_static.download]]
+    sha256 = "50e6c6e09466719938b2d15e8b30b5cbd287674e6c942b86d529600c22d25a90"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.x86_64-apple-darwin.tar.gz"
+[[ONNX_static]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d5abf8b93bec3890c3904fad85bd33fc37cb306"
+libc = "glibc"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "398929f205719e202d1d6ad90172c641579251d0849345586a20e8d598762261"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6743196e1453c115ffd488717488de417efca380"
+libc = "musl"
+os = "linux"
+
+    [[ONNX_static.download]]
+    sha256 = "36930e52dc06e2c3e4e87142865969b472cfe45c8b2b27285c8f691e032cc620"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.x86_64-linux-musl-cxx11.tar.gz"
+[[ONNX_static]]
+arch = "x86_64"
+git-tree-sha1 = "b8b4d0bacba59253ffb3374b67427133e1fbaa82"
+os = "freebsd"
+
+    [[ONNX_static.download]]
+    sha256 = "dc6aeeb9ca9800aa03908e3093c51c6a993f5ad2b498ee31a31f6f0aff808f98"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.x86_64-unknown-freebsd.tar.gz"
+[[ONNX_static]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6eff7db23552f73601e6ba50bf291a2b0ade20a6"
+os = "windows"
+
+    [[ONNX_static.download]]
+    sha256 = "0e067caec8a0cd8158f3dbdc57a4dfb45b0f56eb04eede44d5905cc05b7f14e2"
+    url = "https://github.com/JuliaBinaryWrappers/ONNX_static_jll.jl/releases/download/ONNX_static-v1.10.2+0/ONNX_static.v1.10.2.x86_64-w64-mingw32-cxx11.tar.gz"
